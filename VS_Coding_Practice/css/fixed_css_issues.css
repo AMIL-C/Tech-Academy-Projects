@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    font-family: ;
+    font-size: ;
+}
+
+img {
+    border: dashed red 2px;
+}
+
+form {
+    width: 30px;
+    margin: 0 auto;
+    border: solid black 2px;
+    border-radius: 30%;
+}
+

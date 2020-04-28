@@ -1,2 +1,2 @@
 # Tech-Academy-Projects
-Here are my basic html and css projects for The Tech Academy.
+These are my projects for The Tech Academy.
